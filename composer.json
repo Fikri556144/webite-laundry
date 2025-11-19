@@ -1,0 +1,8 @@
+{
+"name": "laundry-app/modern",
+"description": "Laundry app modern",
+"require": {
+"php": ">=7.4",
+"dompdf/dompdf": "^2.1"
+}
+}
